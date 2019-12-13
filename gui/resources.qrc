@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="images">
+    <file>aggs.jpg</file>
+    <file>captchify.png</file>
+  </qresource>
+</RCC>

@@ -1,0 +1,21 @@
+Train 90%, test 10%
+
+NN-Relu:
+
+results achieved : Train set: 77-81%, Test set: 73 - 80% 
+best architecture: [(50,50), 128, 19], 5 epochs
+Note: 
+if weight initialization = Variancescale Train set: 77-81%, Test set: 73 - 80% 
+
+if weight initialization = he_uniform Train: 78.9 - 84.2 , Test: 71.9 - 82.6
+
+
+architecture == paper 5: [(50,50), 200, 50, 19] :
+ 
+
+Test set too little to obtain trustful evaluation  -->
+
+
+--> K-fold cross-evaluation:
+
+
